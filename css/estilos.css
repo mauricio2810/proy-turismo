@@ -1,0 +1,20 @@
+*  
+{
+margin: 20px;
+}
+body
+{
+    background-color: aquamarine;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img
+{
+    width: 250px;
+    height: 200px;
+}
+p{
+    background-color: beige;
+    margin: 15px;
+    padding: 5px;
+}
